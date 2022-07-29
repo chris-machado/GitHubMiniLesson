@@ -1,2 +1,2 @@
 # GitHubMiniLesson
-We are experimentingwith GitHub
+We are experimenting with GitHub
